@@ -44,7 +44,7 @@
 	  </table>
 	 </div>
  <div name="bottom" align="center">
- 	<img src="images/bol.png" width="1500" height="150"/>
+ 	<img src="images/bot.png" width="1500" height="150"/>
  </div>
   
  </body>
